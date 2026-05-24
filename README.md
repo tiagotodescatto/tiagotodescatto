@@ -1,7 +1,7 @@
-<h2>Hello! I'm Tiago! Here is some of my characteristics <img width="40" alt="image" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NxbWFlZzhmZXI0aWt3d3puOWtkZmMzOHZnNHU0Y3U0d3JrOWdheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif"/></h2> 
+<h2>Hello! I'm Tiago! Here is some things about me! <img width="40" alt="image" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NxbWFlZzhmZXI0aWt3d3puOWtkZmMzOHZnNHU0Y3U0d3JrOWdheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif"/></h2> 
 
 
-[![Linkedin: t](https://img.shields.io/badge/-tiagotodescatto-blue?style=flat-square&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/tiago-todescatto-garces-de-oliveira-5b974039b/)](https://www.linkedin.com/in/tiago-todescatto-garces-de-oliveira-5b974039b/)
+[![Linkedin: t](https://img.shields.io/badge/-tiagotodescatto-blue?style=flat-square&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/tiagotodescatto/)](https://www.linkedin.com/in/tiagotodescatto/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/tiagotodescatto?label=follow&style=social)](https://github.com/tiagotodescatto)
 
 <p >
