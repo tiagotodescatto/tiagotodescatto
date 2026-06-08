@@ -13,6 +13,7 @@
   namespace tiago{
     public record TiagoTodescatto(
       string Name,
+      List<string> ProgrammingLanguages,
       List<string> Languages,
       List<string> Interests,
       List<string> Qualities
@@ -22,7 +23,8 @@
     static void main(){
       var Tiago = new TiagoTodescatto(
         "Tiago Todescatto Garces de Oliveira",
-        new List<string>{ "C#", "C++", "Dart" }, // Always learning more about this universe!
+        new List<string>{ "Java", "Typescript", "Javascript", "Dart" }, // Always learning more about this universe!
+        new List<string>{ "Portuguese", "French", "English", "German" },
         new List<string>{ "Mathematics", "Physics", "Metal Music", "Literature" },
         new List<string>{ "Ethical", "Hardworking", "Creative", "Mature", "Desire for learning new things" }
       );
