@@ -23,7 +23,7 @@
     static void main(){
       var Tiago = new TiagoTodescatto(
         "Tiago Todescatto Garces de Oliveira",
-        new List<string>{ "Java", "Typescript", "Javascript", "Dart" }, // Always learning more about this universe!
+        new List<string>{ "Java", "C#" "Typescript", "Javascript", "C++" }, // Always learning more about this universe! I code mainly in Typescript and C++ though!
         new List<string>{ "Portuguese", "French", "English", "German" },
         new List<string>{ "Mathematics", "Physics", "Metal Music", "Literature" },
         new List<string>{ "Ethical", "Hardworking", "Creative", "Mature", "Desire for learning new things" }
